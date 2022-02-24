@@ -2,7 +2,7 @@
   "name": "react-hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bobur99.github.io/react-github-api",
+  "homepage": "https://Bobur99.github.io/test-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -23,8 +23,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    },
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
