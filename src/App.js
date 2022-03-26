@@ -18,7 +18,7 @@ function App() {
           <div className="container pt-4">
             <Alert alert={{ text: "test alert" }} />
             <Routes>
-              <Route path="/home" element={<Home />} />
+              <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
               <Route path="/profile/:name" element={<Profile />} />
             </Routes>
